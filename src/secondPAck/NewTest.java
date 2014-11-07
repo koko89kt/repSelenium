@@ -9,7 +9,7 @@ import org.testng.*;
 
 
 public class NewTest {
-	public String baseUrl = "http://www.google.com777777889999";
+	public String baseUrl = "http://www.google.com1234567890";
 	public WebDriver driver = new FirefoxDriver(); 		
 	
 	
